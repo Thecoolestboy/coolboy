@@ -1,0 +1,13 @@
+
+.image{
+        width: 600px;
+        height: 400px;
+        background:url("postal/lisa.png");
+        background-size: 100% auto;
+        background-position: 50% 50%;
+        transition: background-size  .2s;
+}
+.image:hover{
+        background-size: 130% auto;
+}
+
